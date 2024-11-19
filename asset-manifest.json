@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.23a3a39b.css",
+    "main.js": "/static/js/main.59400913.js",
+    "static/media/Rectangle 6.png": "/static/media/Rectangle 6.2e5f4b84b1b3184920d4.png",
+    "static/media/Products_card_3.png": "/static/media/Products_card_3.5b00b929cd378404df96.png",
+    "static/media/card-2.jpg": "/static/media/card-2.a5a68926a7bc81a4664f.jpg",
+    "static/media/card-1.jpg": "/static/media/card-1.a6861c47085fb53c25d6.jpg",
+    "static/media/Products_card_8.png": "/static/media/Products_card_8.92d4617e848431e7ca30.png",
+    "static/media/marvel_copper_L_desktop_eeaaff4b93.jpg": "/static/media/marvel_copper_L_desktop_eeaaff4b93.f4754cb3de7f96e3a0df.jpg",
+    "static/media/deal_3.png": "/static/media/deal_3.27655dcaf0da768d9d6b.png",
+    "static/media/designo_L_desktop_1d6cafe690.jpg": "/static/media/designo_L_desktop_1d6cafe690.a5bfa087e0a177902caa.jpg",
+    "static/media/Products_card_4.png": "/static/media/Products_card_4.2f9a55856e2f411cd759.png",
+    "static/media/Products_card_6.png": "/static/media/Products_card_6.6c1104ea68de347fef7c.png",
+    "static/media/favicon.ico.png": "/static/media/favicon.ico.bfb75e6039fd133a8c33.png",
+    "static/media/Products_card_7.png": "/static/media/Products_card_7.7842cfa0cef05bf24710.png",
+    "static/media/Products_card_5.png": "/static/media/Products_card_5.4e44a3957eb768d16ecf.png",
+    "static/media/deal_2.png": "/static/media/deal_2.b2ff6b299d174f249fec.png",
+    "static/media/deal_5.png": "/static/media/deal_5.2e50f6fef1930b7d36dd.png",
+    "static/media/canix-ro-cabinet-white-500x500 .png": "/static/media/canix-ro-cabinet-white-500x500 .2d76aedf8034ff148f1c.png",
+    "static/media/deal_4.png": "/static/media/deal_4.26d29cfa402a961d495a.png",
+    "static/media/deal_6.png": "/static/media/deal_6.4db88fc3e22981071548.png",
+    "static/media/Products_card_2.png": "/static/media/Products_card_2.0a1d1c7508680d7e51e9.png",
+    "static/media/deal_1.png": "/static/media/deal_1.91cb4c2a6fc3a76880c7.png",
+    "static/media/img_4.1.jpg": "/static/media/img_4.1.4aa01885b32a94f30122.jpg",
+    "index.html": "/index.html",
+    "main.23a3a39b.css.map": "/static/css/main.23a3a39b.css.map",
+    "main.59400913.js.map": "/static/js/main.59400913.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23a3a39b.css",
+    "static/js/main.59400913.js"
+  ]
+}
